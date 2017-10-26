@@ -1,0 +1,46 @@
+h1{
+  font-family: 'Source Sans Pro';
+  text-align: center;
+}
+
+#one{
+  border: 100px solid #247BA0;
+  background-color: #247BA0;
+  width: 10px;
+  height: 50%;
+  margin-left: 100px;
+}
+#two{
+  border: 100px solid #B2DBBF;
+  background-color:  #B2DBBF;
+  width: 50px;
+  height: 50%;
+  margin-left: 350px;
+  margin-top: -215px
+}
+#three{
+  border: 100px solid #70C1B3;
+  background-color: #70C1B3;
+  width: 50px;
+  height: 50%;
+  margin-left: 650px;
+  margin-top: -215px;
+
+
+}
+#four{
+  border: 100px solid #F3FFBD;
+  background-color: #F3FFBD;
+  width: 50px;
+  height: 50%;
+  margin-left: 950px;
+  margin-top: -215px;
+}
+#five{
+  border: 100px solid #FF1654;
+  background-color: #FF1654;
+  width: 50px;
+  height: 50%;
+  margin-left: 1250px;
+  margin-top: -215px;
+}
